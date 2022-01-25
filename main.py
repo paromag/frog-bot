@@ -6,7 +6,7 @@ import io
 import json
 from PIL import Image, ImageFont, ImageDraw
 
-TOKEN = 'OTEyNDI0NDI3MzczODg3NDg4.YZvvdw.FoMA7pir-alLJTp67eUZDZ6AXJ8'
+TOKEN = 'TOKEN_HERE'
 
 bot = commands.Bot(command_prefix='/')
 bot.remove_command('help')
